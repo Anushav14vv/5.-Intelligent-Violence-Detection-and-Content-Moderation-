@@ -1,1 +1,2 @@
-# 5.-Intelligent-Violence-Detection-and-Content-Moderation-
+Intelligent-Violence-Detection-and-Content-Moderation-
+Using Deep Learning Model
